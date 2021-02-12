@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/geotech/static/css/main.49771bdd.chunk.css",
-    "main.js": "/geotech/static/js/main.29495825.chunk.js",
-    "main.js.map": "/geotech/static/js/main.29495825.chunk.js.map",
+    "main.css": "/geotech/static/css/main.40942d73.chunk.css",
+    "main.js": "/geotech/static/js/main.13f08253.chunk.js",
+    "main.js.map": "/geotech/static/js/main.13f08253.chunk.js.map",
     "runtime-main.js": "/geotech/static/js/runtime-main.7b4abfc4.js",
     "runtime-main.js.map": "/geotech/static/js/runtime-main.7b4abfc4.js.map",
-    "static/js/2.8cee755c.chunk.js": "/geotech/static/js/2.8cee755c.chunk.js",
-    "static/js/2.8cee755c.chunk.js.map": "/geotech/static/js/2.8cee755c.chunk.js.map",
+    "static/js/2.98f13270.chunk.js": "/geotech/static/js/2.98f13270.chunk.js",
+    "static/js/2.98f13270.chunk.js.map": "/geotech/static/js/2.98f13270.chunk.js.map",
     "index.html": "/geotech/index.html",
-    "static/css/main.49771bdd.chunk.css.map": "/geotech/static/css/main.49771bdd.chunk.css.map",
-    "static/js/2.8cee755c.chunk.js.LICENSE.txt": "/geotech/static/js/2.8cee755c.chunk.js.LICENSE.txt",
-    "static/media/bg.4669cd8a.svg": "/geotech/static/media/bg.4669cd8a.svg",
+    "static/css/main.40942d73.chunk.css.map": "/geotech/static/css/main.40942d73.chunk.css.map",
+    "static/js/2.98f13270.chunk.js.LICENSE.txt": "/geotech/static/js/2.98f13270.chunk.js.LICENSE.txt",
+    "static/media/bg.378f6782.svg": "/geotech/static/media/bg.378f6782.svg",
     "static/media/calendar.944b1f38.svg": "/geotech/static/media/calendar.944b1f38.svg",
     "static/media/cart.a8a8b888.svg": "/geotech/static/media/cart.a8a8b888.svg",
     "static/media/cartelera.e654a153.svg": "/geotech/static/media/cartelera.e654a153.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7b4abfc4.js",
-    "static/js/2.8cee755c.chunk.js",
-    "static/css/main.49771bdd.chunk.css",
-    "static/js/main.29495825.chunk.js"
+    "static/js/2.98f13270.chunk.js",
+    "static/css/main.40942d73.chunk.css",
+    "static/js/main.13f08253.chunk.js"
   ]
 }
