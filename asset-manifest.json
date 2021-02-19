@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/geotech/static/css/main.40942d73.chunk.css",
-    "main.js": "/geotech/static/js/main.a58f0122.chunk.js",
-    "main.js.map": "/geotech/static/js/main.a58f0122.chunk.js.map",
+    "main.css": "/geotech/static/css/main.1d2bb1ea.chunk.css",
+    "main.js": "/geotech/static/js/main.7a3db654.chunk.js",
+    "main.js.map": "/geotech/static/js/main.7a3db654.chunk.js.map",
     "runtime-main.js": "/geotech/static/js/runtime-main.7b4abfc4.js",
     "runtime-main.js.map": "/geotech/static/js/runtime-main.7b4abfc4.js.map",
-    "static/js/2.98f13270.chunk.js": "/geotech/static/js/2.98f13270.chunk.js",
-    "static/js/2.98f13270.chunk.js.map": "/geotech/static/js/2.98f13270.chunk.js.map",
+    "static/js/2.334575df.chunk.js": "/geotech/static/js/2.334575df.chunk.js",
+    "static/js/2.334575df.chunk.js.map": "/geotech/static/js/2.334575df.chunk.js.map",
     "index.html": "/geotech/index.html",
-    "static/css/main.40942d73.chunk.css.map": "/geotech/static/css/main.40942d73.chunk.css.map",
-    "static/js/2.98f13270.chunk.js.LICENSE.txt": "/geotech/static/js/2.98f13270.chunk.js.LICENSE.txt",
-    "static/media/bg.378f6782.svg": "/geotech/static/media/bg.378f6782.svg",
+    "static/css/main.1d2bb1ea.chunk.css.map": "/geotech/static/css/main.1d2bb1ea.chunk.css.map",
+    "static/js/2.334575df.chunk.js.LICENSE.txt": "/geotech/static/js/2.334575df.chunk.js.LICENSE.txt",
     "static/media/calendar.944b1f38.svg": "/geotech/static/media/calendar.944b1f38.svg",
     "static/media/cart.a8a8b888.svg": "/geotech/static/media/cart.a8a8b888.svg",
     "static/media/cartelera.e654a153.svg": "/geotech/static/media/cartelera.e654a153.svg",
     "static/media/consultoria.dc015e9d.svg": "/geotech/static/media/consultoria.dc015e9d.svg",
     "static/media/elearning.5ee7e5c9.svg": "/geotech/static/media/elearning.5ee7e5c9.svg",
     "static/media/geco.62ac2fa1.png": "/geotech/static/media/geco.62ac2fa1.png",
+    "static/media/geco4x4.6e9938f5.png": "/geotech/static/media/geco4x4.6e9938f5.png",
+    "static/media/geco_blanco.3daeb9b6.svg": "/geotech/static/media/geco_blanco.3daeb9b6.svg",
+    "static/media/gecomano.5bca5a4f.png": "/geotech/static/media/gecomano.5bca5a4f.png",
     "static/media/institucional.d4ec5c9b.svg": "/geotech/static/media/institucional.d4ec5c9b.svg",
     "static/media/it.34ec6058.svg": "/geotech/static/media/it.34ec6058.svg",
+    "static/media/mano_geco.ef8b6e8a.svg": "/geotech/static/media/mano_geco.ef8b6e8a.svg",
     "static/media/mobile.a6111f9d.svg": "/geotech/static/media/mobile.a6111f9d.svg",
     "static/media/outsourcing.9013b41c.svg": "/geotech/static/media/outsourcing.9013b41c.svg",
     "static/media/soporte.fbc37c2c.svg": "/geotech/static/media/soporte.fbc37c2c.svg",
@@ -27,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7b4abfc4.js",
-    "static/js/2.98f13270.chunk.js",
-    "static/css/main.40942d73.chunk.css",
-    "static/js/main.a58f0122.chunk.js"
+    "static/js/2.334575df.chunk.js",
+    "static/css/main.1d2bb1ea.chunk.css",
+    "static/js/main.7a3db654.chunk.js"
   ]
 }
