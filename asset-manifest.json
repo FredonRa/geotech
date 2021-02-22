@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geotech/static/css/main.8168f50e.chunk.css",
-    "main.js": "/geotech/static/js/main.e124113f.chunk.js",
-    "main.js.map": "/geotech/static/js/main.e124113f.chunk.js.map",
+    "main.js": "/geotech/static/js/main.ba83f4b2.chunk.js",
+    "main.js.map": "/geotech/static/js/main.ba83f4b2.chunk.js.map",
     "runtime-main.js": "/geotech/static/js/runtime-main.7b4abfc4.js",
     "runtime-main.js.map": "/geotech/static/js/runtime-main.7b4abfc4.js.map",
     "static/js/2.73308895.chunk.js": "/geotech/static/js/2.73308895.chunk.js",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.7b4abfc4.js",
     "static/js/2.73308895.chunk.js",
     "static/css/main.8168f50e.chunk.css",
-    "static/js/main.e124113f.chunk.js"
+    "static/js/main.ba83f4b2.chunk.js"
   ]
 }
