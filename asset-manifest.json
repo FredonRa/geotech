@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geotech/static/css/main.8168f50e.chunk.css",
-    "main.js": "/geotech/static/js/main.83816b2b.chunk.js",
-    "main.js.map": "/geotech/static/js/main.83816b2b.chunk.js.map",
+    "main.css": "/geotech/static/css/main.bb1deebd.chunk.css",
+    "main.js": "/geotech/static/js/main.68a4047f.chunk.js",
+    "main.js.map": "/geotech/static/js/main.68a4047f.chunk.js.map",
     "runtime-main.js": "/geotech/static/js/runtime-main.7b4abfc4.js",
     "runtime-main.js.map": "/geotech/static/js/runtime-main.7b4abfc4.js.map",
-    "static/js/2.73308895.chunk.js": "/geotech/static/js/2.73308895.chunk.js",
-    "static/js/2.73308895.chunk.js.map": "/geotech/static/js/2.73308895.chunk.js.map",
+    "static/js/2.dbdd94da.chunk.js": "/geotech/static/js/2.dbdd94da.chunk.js",
+    "static/js/2.dbdd94da.chunk.js.map": "/geotech/static/js/2.dbdd94da.chunk.js.map",
     "index.html": "/geotech/index.html",
-    "static/css/main.8168f50e.chunk.css.map": "/geotech/static/css/main.8168f50e.chunk.css.map",
-    "static/js/2.73308895.chunk.js.LICENSE.txt": "/geotech/static/js/2.73308895.chunk.js.LICENSE.txt",
+    "static/css/main.bb1deebd.chunk.css.map": "/geotech/static/css/main.bb1deebd.chunk.css.map",
+    "static/js/2.dbdd94da.chunk.js.LICENSE.txt": "/geotech/static/js/2.dbdd94da.chunk.js.LICENSE.txt",
     "static/media/calendar.944b1f38.svg": "/geotech/static/media/calendar.944b1f38.svg",
     "static/media/cart.a8a8b888.svg": "/geotech/static/media/cart.a8a8b888.svg",
     "static/media/cartelera.e654a153.svg": "/geotech/static/media/cartelera.e654a153.svg",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7b4abfc4.js",
-    "static/js/2.73308895.chunk.js",
-    "static/css/main.8168f50e.chunk.css",
-    "static/js/main.83816b2b.chunk.js"
+    "static/js/2.dbdd94da.chunk.js",
+    "static/css/main.bb1deebd.chunk.css",
+    "static/js/main.68a4047f.chunk.js"
   ]
 }
